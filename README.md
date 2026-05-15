@@ -1,4 +1,16 @@
+![alt text](image.png)
+
 # Primer proyecto como analista de datos
+
+Este primer proyecto representa mi transición hacia el Data Analytics, procesando datos en python y visualización avanzada en Power BI.
+
+# Objetivo
+
+El objetivo principal es desglosar la complejidad narrativa e la saga de videojuegos "Resident Evil" para identificar patrones de aparición, roles y niveles de interacción de sus personajes.
+
+# Pipeline de datos
+
+Para este proyecto realicé la limpieza y transformación de archivos CSV crudos (raw data) mediante scripts en python, asegurando los datos antes de su visualización.
 
 # Herramientas y Métodos de Pandas utilizados
 
@@ -19,8 +31,6 @@
 
 - .groupby():
   Método avanzado para agrupar datos por categorías(ej. agrupar por título de juego) y aplicar funciones de agregación.
-
-# Herramientas y Métodos de Matplotlib utilizados
 
 # Preguntas de Negocio
 
